@@ -3,7 +3,7 @@ name :  go-ci
 on:
     pull_request:
         branches:
-        - main
+        - main 
 
 jobs:
    build:
